@@ -6,7 +6,7 @@ Based on: https://github.com/rodneybakiskan/ps5-esp32
 
 The library done by rodneybakiskan uses the old build system of esp-idf which is outdated as of version 5.2.2.
 
-The library works similarry if not identical to the prior works.
+The library works similarly if not identical to the prior works.
 
 Also see:
 
