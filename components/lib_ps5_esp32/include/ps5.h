@@ -134,7 +134,6 @@ typedef void (*ps5_event_object_callback_t)(void* object, ps5_t ps5, ps5_event_t
 /********************************************************************************/
 
 bool ps5IsConnected();
-void ps5Begin(const char* mac);
 void ps5Init();
 void ps5Enable();
 void ps5Cmd(ps5_cmd_t ps5_cmd);
