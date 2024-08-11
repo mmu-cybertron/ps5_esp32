@@ -30,7 +30,7 @@ In your project folder, run `make menuconfig` and configure your project with th
 - Select `Bluedroid - Dual-mode` and press <kbd>Enter</kbd> to confirm the choice.
 - Navigate to `[] Bluedroid Enable  --->` and press <kbd>Y</kbd> to enable Bluedroid if it isn't already, then press <kbd>Enter</kbd> to open its menu.
 - Navigate to `Classic Bluetooth` and press <kbd>Y</kbd> to enable it
-
+- Navigate to `SPP` and press <kbd>Y</kbd> to enable it
 - Press <kbd>S</kbd> to save the configuration.
 
 
